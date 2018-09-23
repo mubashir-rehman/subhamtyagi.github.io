@@ -27,7 +27,8 @@ window.onload = function() {
     'I develop and code things on the github',
     'I\'m passionate developer.<br>',
     'Contact me at',
-    '<a target="_blank" href="https://twitter.com/shu8hamtyagi">twitter.com/shu8hamtyagi</a><br><a target="_blank" href="https://github.com/shubhamtyagi">github.com/subhamtyagi</a>',
+    '<a target="_blank" href="https://twitter.com/shu8hamtyagi">twitter.com/shu8hamtyagi</a><br><a target="_blank"',
+    'href="https://github.com/subhamtyagi">github.com/subhamtyagi</a>',
     getCurrentTime(),
     'Shubham Tyagi.'
   ]
