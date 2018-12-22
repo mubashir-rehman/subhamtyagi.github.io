@@ -27,7 +27,7 @@ window.onload = function() {
     'I develop and code things on the github',
     'I\'m passionate developer.<br>',
     'Contact me at<br><a href="mailto:tyagishubham{At}yandex.com?subject=Github%20Website%20Enquiry&body=Let%27s%20talk%20about%20Github">tyagishubham{at}yandex.com</a>',
-    '<a target="_blank"  href="https://twitter.com/shu8hamtyagi">twitter.com/shu8hamtyagi</a>','<a target="_blank" href="https://github.com/subhamtyagi">github.com/subhamtyagi</a>','<a target="_blank" href="./index2.html">other.github.page</a>',
+    '<a target="_blank"  href="https://twitter.com/0xTyagi">twitter.com/0xTyagi</a>','<a target="_blank" href="https://github.com/subhamtyagi">github.com/subhamtyagi</a>','<a target="_blank" href="./index2.html">One more Github page</a>',
     getCurrentTime(),
     'Shubham Tyagi.'
   ]
