@@ -1,4 +1,4 @@
-﻿/*
+/*
  * This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc/4.0/.
  * Copyright (c) 2016 Julian Garnier
@@ -27,7 +27,7 @@ window.onload = function() {
     'I develop and code things on the github',
     'I\'m passionate developer.<br>',
     'Contact me at<br><a href="mailto:tyagishubham{At}yandex.com?subject=Via%20GitHub%20Website%20&body=Let%27s%20talk">tyagishubham{at}yandex.com</a>',
-    '<a target="_blank"  href="https://twitter.com/0xTyagi">twitter.com/0xTyagi</a>','<a target="_blank" href="https://github.com/subhamtyagi">github.com/subhamtyagi</a>','<a target="_blank" href="./index2.html">one more github page</a>',
+    '<a target="_blank"  href="https://twitter.com/0xTyagi">twitter.com/0xTyagi</a>','<a target="_blank" href="https://github.com/subhamtyagi">github.com/subhamtyagi</a>','<a target="_blank" href="./index2.html">more info</a>',
     getCurrentTime(),
     'Shubham Tyagi.'
   ]
